@@ -1,0 +1,2 @@
+# hellofyb
+FYBSC class details
